@@ -11,11 +11,11 @@ Power BI a business intelligence tool, is a collection of software services, app
 
 ## Topics covered
 
-- Data Visualization and Forecasting
-
 - Data Modelling
 
 - Data Cleaning
+
+- Data Visualization and Forecasting
 
 - Data Sharing and Collaboration
 ***
