@@ -1,3 +1,6 @@
+![download](https://github.com/shubhammalik20/Power-Bi-Project/assets/135993334/643c582d-e612-4e00-8cab-b8bbfad1a4ca)
+
+
 # Power-Bi-Project
 It contains different Business Case Studies. Each case study contains dataset and .pbix file.
 
