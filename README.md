@@ -6,7 +6,7 @@ Snapshot is also available for each case study.
 ***
 
 ## What is Power Bi used for?
-Power BI is a business intelligence tool used for Data Visualization and Report generation.
+Power BI a business intelligence tool, is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights.
 ***
 
 ## Topics covered
