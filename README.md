@@ -2,6 +2,12 @@
 
 
 # Power-Bi-Project
+
+- Explore the capabilities of Power BI through a curated collection of projects.
+- Dynamic visualizations and interactive dashboards for data-driven insights.
+- Real-world use cases highlighting data integration and transformation.
+- Comprehensive showcase of Power BI's data reporting and analysis prowess.
+  
 It contains different Business Case Studies. Each case study contains dataset and .pbix file.
 
 Snapshot is also available for each case study.
